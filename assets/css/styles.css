@@ -307,6 +307,7 @@ img {
 /*=============== SPONSOR ===============*/
 .sponsor__img {
   width: 90px;
+  cursor: pointer;
 }
 
 .sponsor__container {

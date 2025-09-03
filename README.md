@@ -1,4 +1,4 @@
-Beats Headphones Landing Page
+Gbedu Headphones Landing Page
 A beautifully designed headphone product landing page built using HTML, CSS, and JavaScript. This project highlights responsive design, smooth scroll-based animations, and a visually appealing dark-themed interface.
 
  Features
